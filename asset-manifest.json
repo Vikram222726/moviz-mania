@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/moviz-mania/static/css/main.ca4c91eb.chunk.css",
+    "main.js": "/moviz-mania/static/js/main.a927db37.chunk.js",
+    "main.js.map": "/moviz-mania/static/js/main.a927db37.chunk.js.map",
+    "runtime-main.js": "/moviz-mania/static/js/runtime-main.479fbd32.js",
+    "runtime-main.js.map": "/moviz-mania/static/js/runtime-main.479fbd32.js.map",
+    "static/css/2.3afb149e.chunk.css": "/moviz-mania/static/css/2.3afb149e.chunk.css",
+    "static/js/2.9b270ae3.chunk.js": "/moviz-mania/static/js/2.9b270ae3.chunk.js",
+    "static/js/2.9b270ae3.chunk.js.map": "/moviz-mania/static/js/2.9b270ae3.chunk.js.map",
+    "static/js/3.1be66a88.chunk.js": "/moviz-mania/static/js/3.1be66a88.chunk.js",
+    "static/js/3.1be66a88.chunk.js.map": "/moviz-mania/static/js/3.1be66a88.chunk.js.map",
+    "index.html": "/moviz-mania/index.html",
+    "static/css/2.3afb149e.chunk.css.map": "/moviz-mania/static/css/2.3afb149e.chunk.css.map",
+    "static/css/main.ca4c91eb.chunk.css.map": "/moviz-mania/static/css/main.ca4c91eb.chunk.css.map",
+    "static/js/2.9b270ae3.chunk.js.LICENSE.txt": "/moviz-mania/static/js/2.9b270ae3.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/moviz-mania/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.479fbd32.js",
+    "static/css/2.3afb149e.chunk.css",
+    "static/js/2.9b270ae3.chunk.js",
+    "static/css/main.ca4c91eb.chunk.css",
+    "static/js/main.a927db37.chunk.js"
+  ]
+}
